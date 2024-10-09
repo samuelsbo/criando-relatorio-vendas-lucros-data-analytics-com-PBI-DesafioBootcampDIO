@@ -21,9 +21,8 @@ O dashboard também apresenta os **Top 3** em diferentes categorias (países, pr
 
 ## Tecnologias Utilizadas
 
-- **Power BI Desktop** para criação dos dashboards e visualizações.
-- **SQL** para consultas e manipulação de dados.
-- **Excel** para armazenar e preparar dados adicionais (quando necessário).
+- **Excel** para armazenar dados.
+- **Power BI Desktop** para manipulação de dados, criação dos dashboards e visualizações.
 
 ## Base de Dados
 
